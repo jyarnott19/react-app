@@ -1,0 +1,14 @@
+C:\Users\jyarn\react-app\bin\Debug\net8.0\react-app.exe
+C:\Users\jyarn\react-app\bin\Debug\net8.0\react-app.deps.json
+C:\Users\jyarn\react-app\bin\Debug\net8.0\react-app.runtimeconfig.json
+C:\Users\jyarn\react-app\bin\Debug\net8.0\react-app.dll
+C:\Users\jyarn\react-app\bin\Debug\net8.0\react-app.pdb
+C:\Users\jyarn\react-app\obj\Debug\net8.0\react-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jyarn\react-app\obj\Debug\net8.0\react-app.AssemblyInfoInputs.cache
+C:\Users\jyarn\react-app\obj\Debug\net8.0\react-app.AssemblyInfo.cs
+C:\Users\jyarn\react-app\obj\Debug\net8.0\react-app.csproj.CoreCompileInputs.cache
+C:\Users\jyarn\react-app\obj\Debug\net8.0\react-app.dll
+C:\Users\jyarn\react-app\obj\Debug\net8.0\refint\react-app.dll
+C:\Users\jyarn\react-app\obj\Debug\net8.0\react-app.pdb
+C:\Users\jyarn\react-app\obj\Debug\net8.0\react-app.genruntimeconfig.cache
+C:\Users\jyarn\react-app\obj\Debug\net8.0\ref\react-app.dll
